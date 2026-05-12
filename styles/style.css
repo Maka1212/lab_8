@@ -209,6 +209,11 @@ table {
     transform: translateX(10px);  /* сдвиг вправо */
     box-shadow: 0 5px 15px rgba(0,216,255,0.4);
 }
+.up-button {
+    display: inline-block;
+    background-color: #0f3460;
+    color: #00d8ff;
+}
 
 /* •	Чем отличается margin от padding?
 padding - Внутренний отступ (от содержимого до границы) 
